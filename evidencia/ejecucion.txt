@@ -1,0 +1,9 @@
+Resultado
+---------
+SQL Server LocalDB: pruebas correctas
+Nombre_Usuario Tipo_Tarjeta Saldo EstadoTarjeta ReporteRobo
+-------------- ------------ ----- ------------- -----------
+Usuario Normal 39.50 0 1
+NumeroRecargas
+--------------
+3
